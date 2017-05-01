@@ -1,0 +1,12 @@
+
+# Dependency directories
+node_modules
+
+# Build generated files
+dist
+lib
+output
+temp
+bin
+
+
